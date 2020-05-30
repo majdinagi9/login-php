@@ -1,0 +1,26 @@
+/*
+File: tax_calulation.css
+Name: Majdi Nagi
+Email: majdi.nagi@stu.bmcc.cuny.edu
+Created: March 28, 2020
+*/
+input[type=submit] {
+    background-color: #31500f;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #fff;
+    font-size: 16px;
+    font-style: italic;
+    line-height: 5px;
+    padding: 10px;
+    width: 180px;
+
+}
+body{
+    position: absolute;
+    left: 490px;
+    font-size: x-large;
+    font-style: italic;
+    background: beige;
+}
